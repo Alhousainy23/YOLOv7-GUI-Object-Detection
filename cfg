@@ -1,1 +1,10 @@
+echo > baseline 
+echo > deploy
+echo > training
 
+git add baseline deploy training
+git commit -m baseline 
+git commit -m deploy
+git commit -m training
+
+git push

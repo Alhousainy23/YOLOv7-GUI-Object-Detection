@@ -48,8 +48,7 @@ The processed output is automatically saved for later use.
    ```bash
    git clone https://github.com/your-username/yolov7-gui-object-detection.git
 
-'''bash 
-pip install -r requirements.txt
+'pip install -r requirements.txt'
 
 ## Use Cases
 
